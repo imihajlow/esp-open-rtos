@@ -21,7 +21,7 @@
 	url = https://github.com/sheinz/fs-test
 [submodule "extras/bearssl/BearSSL"]
 	path = extras/bearssl/BearSSL
-	url = https://www.bearssl.org/git/BearSSL
+	url = https://github.com/imihajlow/BearSSL.git
 [submodule "extras/http-parser/http-parser"]
 	path = extras/http-parser/http-parser
 	url = https://github.com/nodejs/http-parser
